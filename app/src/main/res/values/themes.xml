@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.30DaysOfMusic" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_onSecondary</item>
+        <item name="android:colorBackground">@color/md_theme_surface_day</item>
+        <item name="colorSurface">@color/md_theme_surface_day</item>
+        <item name="colorOnSurface">@color/md_theme_onSurface_day</item>
+    </style>
+</resources>
